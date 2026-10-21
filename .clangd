@@ -1,0 +1,7 @@
+CompileFlags:
+  Add:
+    - -std=c++20
+    - -D__C64__
+    - -isystem/home/blue/Projects/c64-games/llvm-mos/mos-platform/c64/include
+    - -isystem/home/blue/Projects/c64-games/llvm-mos/mos-platform/commodore/include
+    - -isystem/home/blue/Projects/c64-games/llvm-mos/mos-platform/common/include

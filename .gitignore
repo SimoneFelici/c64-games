@@ -1,3 +1,4 @@
 llvm-mos/
 *.out
 *.elf
+*.prg
